@@ -1,0 +1,10 @@
+# Install once with: python3 -m pip install -r requirements.txt
+pandas>=2.0
+google-api-python-client>=2.0
+python-dotenv>=1.0
+ipykernel>=6.0
+transformers>=4.40
+torch>=2.5
+sentencepiece>=0.2
+protobuf>=4.0
+matplotlib>=3.8
